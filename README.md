@@ -6,3 +6,5 @@ This repository is built step by step in the tutorial.
 
 Added from GitHub!
 Another edit from GitHub to test pull!
+
+Added to push.
